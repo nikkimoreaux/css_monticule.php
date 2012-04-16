@@ -1,5 +1,3 @@
-# [Project Page](http://nikkimoreaux.github.com/css_monticule.php/)
-
 # Let's merge some .css files
 
 Tired of all these css files? 
